@@ -1,7 +1,7 @@
 import requests
 import urllib
 
-APP_ACCESS_TOKEN = '27390842.7b94363.eff319e8edc6461f88668480c04bc712'
+APP_ACCESS_TOKEN = 'APP_ACCESS_TOKEN'
 BASE_URL = 'https://api.instagram.com/v1/'
 
 def get_user_id(insta_username):
